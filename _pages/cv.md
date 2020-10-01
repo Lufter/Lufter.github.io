@@ -9,32 +9,32 @@ redirect_from:
 
 {% include base_path %}
 
+[Lufter's CV](https://github.com/Lufter/lufter.github.io/blob/master/files/Lufter_cv.pdf)
 Education
 ======
-* B.S. in Civil Engineering, National Cheng Kung University, 2020(expected)
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Civil Engineering, National Cheng Kung University, 2020
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2019: Research Assistant
+  * Physics Dept. Matterwave Lab
+  * Semi Quantum Walk.
+  * Supervisor: Prof. Pei Chen Kuan
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2019: Research Assistant
+  * Civil Engineering Dept. AI Material Lab
+  * Machine Learing in Material Design
+  * Constructing auxetic materials using computational physics.
+  * Supervisor: Prof. Yun Che Wang
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* Qiskits
+* Machine Learning
+  * Tensorflow
+  * PyTorch
 
 Publications
 ======
@@ -48,11 +48,6 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
