@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Chun-Wei(Lufter) Liu's Website"
+title: "Chun-Wei(Lufter)'s Website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
