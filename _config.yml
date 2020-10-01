@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Chun-Wei Liu"
   avatar           : "babylan.png"
-  bio              : "Undergraduate reasercher at Physics and Civil Engineering, NCKU"
+  bio              : "Undergraduate reasercher at Physics and Civil Engineering departmant, NCKU"
   location         : "Taipei, Taiwan(R.O.C)"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "e64069094@gs.ncku.edu.tw"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/lüfter-physik-22659514b"
+  linkedin         : #"https://www.linkedin.com/in/lüfter-physik-22659514b"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
