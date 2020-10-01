@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-[Lufter's CV](https://github.com/Lufter/lufter.github.io/blob/master/files/Lufter_cv.pdf)
+This is my CV in pdf:[Lufter's CV](https://github.com/Lufter/lufter.github.io/blob/master/files/Lufter_cv.pdf).
+
 Education
 ======
 * B.S. in Civil Engineering, National Cheng Kung University, 2020
