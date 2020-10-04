@@ -90,6 +90,7 @@ author:
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "e64069094@gs.ncku.edu.tw"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  CV               : "/files/lufter_cv.pdf"
   uri              :
   bitbucket        :
   codepen          :
