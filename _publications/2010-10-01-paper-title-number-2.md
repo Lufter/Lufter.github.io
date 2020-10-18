@@ -6,7 +6,7 @@ excerpt: 'A possibility of designing material geometry using integrated machine 
 date: 2020-11-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Lufter, Yun-Che Wang. (2020). &quot;Design of Chiral Metamaterials via Deep Neural Networks&quot; <i>Journal 1</i>. 1(2).'
+citation: 'Lufter, Yun-Che Wang. (2020). &quot;Design of Chiral Metamaterials via Deep Neural Networks&quot; <i>Journal ??</i>. 1(2).'
 ---
 This paper is about the number 2. The number 3 is left for future work.
 
