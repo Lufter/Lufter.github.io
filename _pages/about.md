@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Chun-Wei(Lufter)'s Website"
+title: "Quantun Physics in The Shire?"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
