@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Material Geometry Design Using Machine Learning and Optimization"
+excerpt: "Use VGG to predict mechanical properties from their images, and use Bayesian model to optimize the GAN that can generate material images.<br/><img src='/images/vgg_performance.png'>"
 collection: portfolio
 ---
 
