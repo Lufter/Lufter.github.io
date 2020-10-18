@@ -52,4 +52,4 @@ Talks
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Director, Academic Department of NCKU CE Student Association 
