@@ -11,5 +11,3 @@ I recieved my B.S. degree in [Civil Engineering department](http://www.civil.nck
 
 My research interest is quantum computing/information and machine learning, including quantum walk, quantum machine/systems, large scale image regression ,and adversarial model for material microstructural design.
 
-Will serve in military in about 4 month, hope that I will be in onepice.
-
