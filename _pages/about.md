@@ -11,5 +11,5 @@ I recieved my B.S. degree in [Civil Engineering department](http://www.civil.nck
 
 My research interest is quantum computing/information and machine learning, including quantum walk, quantum machine/systems, large scale image regression ,and adversarial model for material microstructural design.
 
-Most of my projects are computer simulating physics. But, also open to investigate real phyisical experiments in quantum science.
+Most of my projects are computer simulating physics. Since this is the best way to embrace quantum engineering in my academic institution. But, my vision also open to investigations in phyisical experiments in quantum science.
 
