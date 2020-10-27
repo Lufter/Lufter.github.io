@@ -1,6 +1,6 @@
 ---
 title: "Simulations of Qauntum Random Walk"
-excerpt: "???"
+excerpt: "Use computer program to simulate one dimensional quantum walks with various evolution strategies. The results ate meant to be the references to physical experiments.>"
 collection: portfolio
 ---
 
