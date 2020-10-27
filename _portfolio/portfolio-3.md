@@ -1,6 +1,6 @@
 ---
 title: "Simulations of Qauntum Random Walk"
-excerpt: "Use python program to simulate one dimensional quantum walks with various evolution strategies."
+excerpt: "Use python program to simulate one dimensional quantum walks with various evolution strategies."<br/><img src='/images/scattering.png'>
 collection: portfolio
 ---
 
