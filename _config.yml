@@ -88,8 +88,8 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "e64069094@gs.ncku.edu.tw"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   CV               : "/files/lufter_cv.pdf"
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
