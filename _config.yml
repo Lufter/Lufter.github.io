@@ -88,7 +88,7 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "e64069094@gs.ncku.edu.tw"
-  CV               : "https://lufter.github.io/files/lufter_cv.pdf"
+  CV               : #"https://lufter.github.io/files/lufter_cv.pdf"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "Lüfter Physik"
+  linkedin         : "lufter-chun-wei-liu"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
