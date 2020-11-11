@@ -4,4 +4,6 @@ excerpt: "We implemented a 4 qubit hybrid quantum neural networks trained on sol
 collection: portfolio
 ---
 
-We implemented a 4 qubit hybrid quantum neural networks trained on solving the Flock energy of Li-H molecular compond.[Github Repo](https://github.com/Lufter/IBMQcamp2020_VQE_team)<br/><img src='/images/4qubitQNN.png'>
+We implemented a 4 qubit hybrid quantum neural networks trained on solving the Flock energy of Li-H molecular compond.
+[Our Github Repo.](https://github.com/Lufter/IBMQcamp2020_VQE_team)
+<br/><img src='/images/4qubitQNN.png'>
