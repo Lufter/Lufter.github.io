@@ -1,5 +1,5 @@
 ---
-title: "Symmetric quantum walk with phase transition feature"
+title: "Symmetric Quantum Walk With Phase Transition Feature"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Observations of one-dimention disctete quantum walk.'
