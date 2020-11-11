@@ -6,7 +6,7 @@ excerpt: 'Observations of one-dimention disctete quantum walk.'
 date: 2020-11-01
 venue: 'Journal ?'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Lufter, Pei-Cheng Kuan. (2020). &quot;Symmetric Quantum Walk With Phase Transition Feature&quot; <i>Physcis Review Meow (In preperation.)</i>. 1(1).'
+citation: 'Lufter, Pei-Cheng Kuan. (2020). &quot;Symmetric Quantum Walk With Phase Transition Feature&quot; <i>Physcis Review Meow (In preperation.)</i>.'
 ---
 
 <!-- This paper is about the number 1. The number 2 is left for future work. -->
