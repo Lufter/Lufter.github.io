@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Quantun Ring in The Shire?"
+title: "Quantum Ring in The Shire?"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
