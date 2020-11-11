@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Observations of one-dimention disctete quantum walk.'
 date: 2020-11-01
-venue: 'Journal ?'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+venue: 'Physcis Review Meow (In preperation.)'
+paperurl: 
 citation: 'Lufter, Pei-Cheng Kuan. (2020). &quot;Symmetric Quantum Walk With Phase Transition Feature&quot; <i>Physcis Review Meow (In preperation.)</i>.'
 ---
 
