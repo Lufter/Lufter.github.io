@@ -6,7 +6,7 @@ excerpt: 'A possibility of designing material geometry using integrated machine 
 date: 2020-11-01
 venue: 'Journal 1'
 paperurl: 'https://lufter.github.io/files/Design_of_Chiral_Metamaterials_via_Deep_Neural_Networks.pdf'
-citation: 'Lufter, Yun-Che Wang. (2020). &quot;Design of Chiral Metamaterials via Deep Neural Networks&quot; <i>44th National Conference on Theoretical and Applied Mechanics (CTAM2020)</i>.'
+citation: 'Yun‑Che Wang, Chun Wei Liu , Pei‑Chen Cheng , Jyun‑Ping Wang, Tsai‑Wen Ko, &quot;Design of Chiral Metamaterials via Deep Neural Networks&quot; <i>44th National Conference on Theoretical and Applied Mechanics (CTAM2020)</i>.'
 ---
 <!-- This paper is about the number 1. The number 2 is left for future work. -->
 
