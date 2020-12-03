@@ -1,4 +1,6 @@
-_site/
+# IDEs
+.idea/
 
-
-files/silvia-main/
+# Hugo
+/resources/
+public/
